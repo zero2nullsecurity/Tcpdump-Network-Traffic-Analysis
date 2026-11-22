@@ -8,12 +8,14 @@
   <b>Learn Network Packet Capturing, Filtering & Traffic Analysis</b>
 </p>
 
+
 <p align="center">
-  ![Tool](https://img.shields.io/badge/Tool-Tcpdump-blue)
-  ![Category](https://img.shields.io/badge/Category-Network%20Analysis-green)
-  ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange)
-  ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
+  <img src="https://img.shields.io/badge/TOOL-TCPDUMP-blue?style=for-the-badge" alt="Tool">
+  <img src="https://img.shields.io/badge/CATEGORY-NETWORK_ANALYSIS-green?style=for-the-badge" alt="Category">
+  <img src="https://img.shields.io/badge/LEVEL-BEGINNER-orange?style=for-the-badge" alt="Level">
+  <img src="https://img.shields.io/badge/PLATFORM-LINUX-lightgrey?style=for-the-badge" alt="Platform">
 </p>
+
 
 ---
 
