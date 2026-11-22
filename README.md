@@ -1,7 +1,7 @@
 # Tcpdump – Network Traffic Analysis
 
 <p align="center">
-  <img src="https://www.tcpdump.org/tcpdump_logo.jpg" alt="Tcpdump Logo" width="180">
+  <img src="assets/tcpdump-logo.svg" alt="Tcpdump Logo" width="320">
 </p>
 
 <p align="center">
